@@ -1,0 +1,113 @@
+.navbar.sticky-top.navbar-light{
+  
+  
+    background-image: linear-gradient(90deg, #1E90FF 0%, #1fc8db 51%, #2cb5e8 75%);
+    
+    opacity: 0.95;
+ /* background-image: linear-gradient(to right, #1E90FF , white);*/
+}
+body{
+  margin-left: auto;
+    margin-right: auto;
+}
+div#AboutMe.row{
+  padding-bottom: 20px;
+  padding-top: 20px;
+  background-color: #ffff;
+  opacity: 0.95;
+  margin: 0 auto;
+}
+
+div#Contact.row{
+  padding-bottom: 20px;
+  padding-top: 20px;
+  background-color: white;
+  margin: 0 auto;
+}
+div#Skills{
+  margin: 0 auto;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  background-color: #1fc8db;
+  opacity: 0.95;
+}
+div#Projects{
+  margin: 0 auto;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  background-color: #ffff;
+  opacity: 0.95;
+}
+div#Hobbies{
+  margin: 0 auto;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  background-color: #2cb5e8;
+  opacity: 0.95;
+}
+div#innerContact{
+   margin: 0 auto;
+}
+
+img#simbolo{
+  height: 100px;
+  width: 100px;
+  margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+img#proyects{
+  height: 100px;
+  width: 500px;
+  margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+h3#simb{
+  margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+div#demo.carousel.slide{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1.bad.title.col-sm-12.col-md-12.col-xs-12.col-lg-12
+{
+
+}
+
+/*
+ * ==== hexagon
+ */
+.hexa, .hexa div {
+  margin: 0 auto;
+  transform-origin: 50% 50%;
+  overflow: hidden;
+  width: 300px;
+  height: 300px;
+}
+.hexa {
+  width: 300px;
+  height: 280px;
+   
+}
+.hexa div {
+  width: 100%;
+  height: 100%;
+
+}
+.hexa {
+  transform: rotate(120deg);
+}
+.hex1 {
+  transform: rotate(-60deg);
+}
+.hex2 {
+  transform: rotate(-60deg);
+}
+
