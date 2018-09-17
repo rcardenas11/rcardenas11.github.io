@@ -15,7 +15,7 @@ Tecnologias:
  -Bootstrap</br>
  -JS</br>
  
-ScreeShot
+ScreenShot
  - 
 ![Image description](https://github.com/rcardenas11/rcardenas11.github.io/blob/master/Images/Captura.JPG?raw=true)
  
